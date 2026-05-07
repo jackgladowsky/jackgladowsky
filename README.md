@@ -1,17 +1,15 @@
-# hey, im jack 👋
+# hey, i'm jack 👋
 
-CompE @ Northeastern · building stuff with code, hardware, and AI
+BS/MS Computer Engineering @ Northeastern. I build useful software, AI tools, and the occasional hardware-adjacent contraption.
 
-## what im working on
+## selected projects
 
-- **[agentbox](https://github.com/jackgladowsky/agentbox)** — minimal AI agent that owns its own hardware
-- **[GradePace](https://github.com/jackgladowsky/gradepace)** — a better canvas UI
-- **[beam](https://github.com/jackgladowsky/beam)** — P2P file transfer in the browser, no signup needed
-- **[splat2mc](https://github.com/jackgladowsky/splat2mc)** — 3D Gaussian Splats → Minecraft particle datapacks
-- **[arena](https://github.com/jackgladowsky/arena)** — LLM agents compete in real-time social games
-- **[tierjobs](https://github.com/jackgladowsky/tierjobs)** — prestige-ranked job board scraping top tech companies
+- **[GradePace](https://github.com/jackgladowsky/gradepace)** — a better dashboard for Canvas
+- **[beam](https://github.com/jackgladowsky/beam)** — peer-to-peer file transfer in the browser
+- **[mcp-certify](https://github.com/jackgladowsky/mcp-certify)** — testing and certification for MCP servers
+- **[splat2mc](https://github.com/jackgladowsky/splat2mc)** — 3D Gaussian splats rendered in Minecraft
 
 ## links
 
-- 🌐 [jackgladowsky.com](https://www.jackgladowsky.com/)
+- [jackgladowsky.com](https://www.jackgladowsky.com/)
 - [gradepace.com](https://www.gradepace.com/)
